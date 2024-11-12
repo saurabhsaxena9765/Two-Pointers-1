@@ -1,3 +1,6 @@
+# TC: O(n)
+# SC: O(1)
+
 def sortColors(nums):
         """
         Do not return anything, modify nums in-place instead.

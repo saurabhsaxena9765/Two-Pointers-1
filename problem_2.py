@@ -1,3 +1,6 @@
+# TC: O(n^2)
+# SC: O(1)
+
 def threeSum(nums):
         ans = set()
         nums.sort()

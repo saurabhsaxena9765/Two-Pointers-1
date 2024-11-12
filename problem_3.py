@@ -1,3 +1,6 @@
+# TC: O(n)
+# SC: O(1)
+
 def maxArea(height):
         left = 0
         right = len(height) -1 
